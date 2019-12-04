@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<attributes>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="4" eline="4" spos="0" epos="0"/>
+<text info="[n]" aType="ParamNamesTag"/>
+</attribute>
+<attribute>
+<srcPos sline="11" eline="11" spos="3" epos="3"/>
+<jmpPos sline="16" eline="16" spos="0" epos="0"/>
+<link label="temp$0 has reaching def: temp$0 = 10" jmpLink="15" srcLink="11" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="12" eline="12" spos="7" epos="12"/>
+<jmpPos sline="17" eline="17" spos="0" epos="0"/>
+<link label="n has reaching def: n = temp$0" jmpLink="16" srcLink="11" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="13" eline="13" spos="23" epos="32"/>
+<jmpPos sline="25" eline="25" spos="0" epos="0"/>
+<link label="temp$2 has reaching def: temp$2 = new java.lang.StringBuffer" jmpLink="24" srcLink="13" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="13" eline="13" spos="23" epos="32"/>
+<jmpPos sline="26" eline="26" spos="0" epos="0"/>
+<link label="temp$2 has reaching def: temp$2 = new java.lang.StringBuffer" jmpLink="24" srcLink="13" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="13" eline="13" spos="23" epos="32"/>
+<jmpPos sline="27" eline="27" spos="0" epos="0"/>
+<link label="temp$2 has reaching def: temp$2 = new java.lang.StringBuffer" jmpLink="24" srcLink="13" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+<link label="n has reaching def: n = temp$0" jmpLink="16" srcLink="11" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="13" eline="13" spos="23" epos="56"/>
+<jmpPos sline="28" eline="28" spos="0" epos="0"/>
+<link label="temp$2 has reaching def: temp$2 = new java.lang.StringBuffer" jmpLink="24" srcLink="13" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="13" eline="13" spos="23" epos="56"/>
+<jmpPos sline="29" eline="29" spos="0" epos="0"/>
+<link label="temp$2 has reaching def: temp$2 = new java.lang.StringBuffer" jmpLink="24" srcLink="13" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="13" eline="13" spos="23" epos="56"/>
+<jmpPos sline="30" eline="30" spos="0" epos="0"/>
+<link label="temp$1 has reaching def: temp$1 = &amp;lt;java.lang.System: java.io.PrintStream out&amp;gt;" jmpLink="23" srcLink="13" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+<link label="temp$3 has reaching def: temp$3 = virtualinvoke temp$2.&amp;lt;java.lang.StringBuffer: java.lang.String toString()&amp;gt;()" jmpLink="29" srcLink="13" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="14" eline="14" spos="4" epos="25"/>
+<jmpPos sline="32" eline="32" spos="0" epos="0"/>
+<link label="temp$4 has reaching def: temp$4 = &amp;lt;java.lang.System: java.io.PrintStream out&amp;gt;" jmpLink="31" srcLink="14" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="17" eline="17" spos="9" epos="17"/>
+<jmpPos sline="40" eline="40" spos="0" epos="0"/>
+<link label="count has reaching def: count = 2" jmpLink="36" srcLink="16" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+<link label="count has reaching def: count = temp$15" jmpLink="90" srcLink="28" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+<link label="n has reaching def: n = temp$0" jmpLink="16" srcLink="11" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="19" eline="19" spos="10" epos="28"/>
+<jmpPos sline="50" eline="50" spos="0" epos="0"/>
+<link label="num has reaching def: num = temp$18" jmpLink="98" srcLink="31" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+<link label="num has reaching def: num = 3" jmpLink="14" srcLink="10" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="19" eline="19" spos="10" epos="28"/>
+<jmpPos sline="51" eline="51" spos="0" epos="0"/>
+<link label="temp$5 has reaching def: temp$5 = (double) num" jmpLink="50" srcLink="19" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="19" eline="19" spos="10" epos="28"/>
+<jmpPos sline="52" eline="52" spos="0" epos="0"/>
+<link label="j has reaching def: j = 2" jmpLink="46" srcLink="18" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+<link label="j has reaching def: j = temp$12" jmpLink="75" srcLink="24" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="19" eline="19" spos="10" epos="28"/>
+<jmpPos sline="53" eline="53" spos="0" epos="0"/>
+<link label="temp$7 has reaching def: temp$7 = (double) j" jmpLink="52" srcLink="19" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+<link label="temp$6 has reaching def: temp$6 = staticinvoke &amp;lt;java.lang.Math: double sqrt(double)&amp;gt;(temp$5)" jmpLink="51" srcLink="19" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="19" eline="19" spos="10" epos="28"/>
+<jmpPos sline="54" eline="54" spos="0" epos="0"/>
+<link label="temp$8 has reaching def: temp$8 = temp$7 cmpg temp$6" jmpLink="53" srcLink="19" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="20" eline="20" spos="10" epos="19"/>
+<jmpPos sline="60" eline="60" spos="0" epos="0"/>
+<link label="num has reaching def: num = temp$18" jmpLink="98" srcLink="31" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+<link label="num has reaching def: num = 3" jmpLink="14" srcLink="10" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+<link label="j has reaching def: j = 2" jmpLink="46" srcLink="18" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+<link label="j has reaching def: j = temp$12" jmpLink="75" srcLink="24" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="20" eline="20" spos="10" epos="19"/>
+<jmpPos sline="61" eline="61" spos="0" epos="0"/>
+<link label="temp$9 has reaching def: temp$9 = num % j" jmpLink="60" srcLink="20" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="21" eline="21" spos="6" epos="11"/>
+<jmpPos sline="68" eline="68" spos="0" epos="0"/>
+<link label="temp$10 has reaching def: temp$10 = 0" jmpLink="67" srcLink="21" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="24" eline="24" spos="5" epos="8"/>
+<jmpPos sline="73" eline="73" spos="0" epos="0"/>
+<link label="j has reaching def: j = 2" jmpLink="46" srcLink="18" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+<link label="j has reaching def: j = temp$12" jmpLink="75" srcLink="24" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="24" eline="24" spos="5" epos="5"/>
+<jmpPos sline="74" eline="74" spos="0" epos="0"/>
+<link label="temp$11 has reaching def: temp$11 = j" jmpLink="73" srcLink="24" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="24" eline="24" spos="5" epos="5"/>
+<jmpPos sline="75" eline="75" spos="0" epos="0"/>
+<link label="temp$12 has reaching def: temp$12 = temp$11 + 1" jmpLink="74" srcLink="24" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="26" eline="26" spos="8" epos="18"/>
+<jmpPos sline="80" eline="80" spos="0" epos="0"/>
+<link label="status has reaching def: status = temp$16" jmpLink="95" srcLink="30" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+<link label="status has reaching def: status = temp$10" jmpLink="68" srcLink="21" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+<link label="status has reaching def: status = 1" jmpLink="13" srcLink="9" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="27" eline="27" spos="5" epos="28"/>
+<jmpPos sline="87" eline="87" spos="0" epos="0"/>
+<link label="temp$13 has reaching def: temp$13 = &amp;lt;java.lang.System: java.io.PrintStream out&amp;gt;" jmpLink="86" srcLink="27" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+<link label="num has reaching def: num = temp$18" jmpLink="98" srcLink="31" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+<link label="num has reaching def: num = 3" jmpLink="14" srcLink="10" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="28" eline="28" spos="5" epos="12"/>
+<jmpPos sline="88" eline="88" spos="0" epos="0"/>
+<link label="count has reaching def: count = 2" jmpLink="36" srcLink="16" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+<link label="count has reaching def: count = temp$15" jmpLink="90" srcLink="28" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="28" eline="28" spos="5" epos="9"/>
+<jmpPos sline="89" eline="89" spos="0" epos="0"/>
+<link label="temp$14 has reaching def: temp$14 = count" jmpLink="88" srcLink="28" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="28" eline="28" spos="5" epos="9"/>
+<jmpPos sline="90" eline="90" spos="0" epos="0"/>
+<link label="temp$15 has reaching def: temp$15 = temp$14 + 1" jmpLink="89" srcLink="28" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="30" eline="30" spos="4" epos="9"/>
+<jmpPos sline="95" eline="95" spos="0" epos="0"/>
+<link label="temp$16 has reaching def: temp$16 = 1" jmpLink="94" srcLink="30" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="31" eline="31" spos="4" epos="9"/>
+<jmpPos sline="96" eline="96" spos="0" epos="0"/>
+<link label="num has reaching def: num = temp$18" jmpLink="98" srcLink="31" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+<link label="num has reaching def: num = 3" jmpLink="14" srcLink="10" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="31" eline="31" spos="4" epos="6"/>
+<jmpPos sline="97" eline="97" spos="0" epos="0"/>
+<link label="temp$17 has reaching def: temp$17 = num" jmpLink="96" srcLink="31" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="31" eline="31" spos="4" epos="6"/>
+<jmpPos sline="98" eline="98" spos="0" epos="0"/>
+<link label="temp$18 has reaching def: temp$18 = temp$17 + 1" jmpLink="97" srcLink="31" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="106" eline="106" spos="0" epos="0"/>
+<text info="[]" aType="ParamNamesTag"/>
+</attribute>
+<attribute>
+<srcPos sline="3" eline="3" spos="0" epos="0"/>
+<jmpPos sline="111" eline="111" spos="0" epos="0"/>
+<link label="this has reaching def: this := @this: ReachingDefinition.Tester" jmpLink="110" srcLink="3" clssNm="ReachingDefinition.Tester" aType="Reaching Defs"/>
+</attribute>
+</attributes>

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<attributes>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="4" eline="4" spos="0" epos="0"/>
+<text info="[args]" aType="ParamNamesTag"/>
+</attribute>
+<attribute>
+<srcPos sline="3" eline="3" spos="26" epos="38"/>
+<jmpPos sline="10" eline="10" spos="0" epos="0"/>
+<text info="@parameter0: java.lang.String[]: Nullness Unknown" aType="NullCheckTag"/>
+<text info="args: Nullness Unknown" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="10" eline="10" spos="8" epos="12"/>
+<color r="174" g="210" b="255" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="3" eline="3" spos="26" epos="38"/>
+<jmpPos sline="10" eline="10" spos="16" epos="47"/>
+<color r="174" g="210" b="255" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="5" eline="5" spos="3" epos="20"/>
+<jmpPos sline="11" eline="11" spos="0" epos="0"/>
+<text info="null: Null" aType="NullCheckTag"/>
+<text info="foo: Null" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="11" eline="11" spos="8" epos="11"/>
+<color r="255" g="0" b="0" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="11" eline="11" spos="14" epos="18"/>
+<color r="255" g="0" b="0" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="6" eline="6" spos="3" epos="35"/>
+<jmpPos sline="12" eline="12" spos="0" epos="0"/>
+<text info="new java.lang.String: NonNull" aType="NullCheckTag"/>
+<text info="temp$0: NonNull" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="12" eline="12" spos="8" epos="14"/>
+<color r="45" g="255" b="84" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="6" eline="6" spos="16" epos="34"/>
+<jmpPos sline="12" eline="12" spos="17" epos="37"/>
+<color r="45" g="255" b="84" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="6" eline="6" spos="16" epos="34"/>
+<jmpPos sline="13" eline="13" spos="0" epos="0"/>
+<text info="temp$0: NonNull" aType="NullCheckTag"/>
+<text info="&quot;Hello&quot;: NonNull" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="13" eline="13" spos="22" epos="28"/>
+<color r="45" g="255" b="84" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="13" eline="13" spos="79" epos="86"/>
+<color r="45" g="255" b="84" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="6" eline="6" spos="16" epos="34"/>
+<jmpPos sline="14" eline="14" spos="0" epos="0"/>
+<text info="temp$0: NonNull" aType="NullCheckTag"/>
+<text info="bar: NonNull" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="14" eline="14" spos="8" epos="11"/>
+<color r="45" g="255" b="84" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="6" eline="6" spos="16" epos="34"/>
+<jmpPos sline="14" eline="14" spos="14" epos="20"/>
+<color r="45" g="255" b="84" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="7" eline="7" spos="3" epos="23"/>
+<jmpPos sline="15" eline="15" spos="0" epos="0"/>
+<text info="&quot;world&quot;: NonNull" aType="NullCheckTag"/>
+<text info="baz: NonNull" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="15" eline="15" spos="8" epos="11"/>
+<color r="45" g="255" b="84" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="15" eline="15" spos="14" epos="21"/>
+<color r="45" g="255" b="84" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="8" eline="8" spos="6" epos="16"/>
+<jmpPos sline="16" eline="16" spos="0" epos="0"/>
+<text info="foo: Null" aType="NullCheckTag"/>
+<text info="null: Null" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="16" eline="16" spos="11" epos="14"/>
+<color r="255" g="0" b="0" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="16" eline="16" spos="18" epos="22"/>
+<color r="255" g="0" b="0" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="9" eline="9" spos="4" epos="27"/>
+<jmpPos sline="22" eline="22" spos="0" epos="0"/>
+<text info="&amp;lt;java.lang.System: java.io.PrintStream out&amp;gt;: Nullness Unknown" aType="NullCheckTag"/>
+<text info="temp$1: Nullness Unknown" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="22" eline="22" spos="8" epos="14"/>
+<color r="174" g="210" b="255" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="9" eline="9" spos="11" epos="13"/>
+<jmpPos sline="22" eline="22" spos="17" epos="60"/>
+<color r="174" g="210" b="255" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="9" eline="9" spos="4" epos="27"/>
+<jmpPos sline="23" eline="23" spos="0" epos="0"/>
+<text info="temp$1: Nullness Unknown" aType="NullCheckTag"/>
+<text info="foo: Null" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="23" eline="23" spos="22" epos="28"/>
+<color r="174" g="210" b="255" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="23" eline="23" spos="83" epos="86"/>
+<color r="255" g="0" b="0" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="10" eline="10" spos="6" epos="16"/>
+<jmpPos sline="27" eline="27" spos="0" epos="0"/>
+<text info="bar: NonNull" aType="NullCheckTag"/>
+<text info="null: Null" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="27" eline="27" spos="11" epos="14"/>
+<color r="45" g="255" b="84" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="27" eline="27" spos="18" epos="22"/>
+<color r="255" g="0" b="0" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="11" eline="11" spos="4" epos="27"/>
+<jmpPos sline="33" eline="33" spos="0" epos="0"/>
+<text info="&amp;lt;java.lang.System: java.io.PrintStream out&amp;gt;: Nullness Unknown" aType="NullCheckTag"/>
+<text info="temp$2: Nullness Unknown" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="33" eline="33" spos="8" epos="14"/>
+<color r="174" g="210" b="255" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="11" eline="11" spos="11" epos="13"/>
+<jmpPos sline="33" eline="33" spos="17" epos="60"/>
+<color r="174" g="210" b="255" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="11" eline="11" spos="4" epos="27"/>
+<jmpPos sline="34" eline="34" spos="0" epos="0"/>
+<text info="temp$2: Nullness Unknown" aType="NullCheckTag"/>
+<text info="bar: NonNull" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="34" eline="34" spos="22" epos="28"/>
+<color r="174" g="210" b="255" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="34" eline="34" spos="83" epos="86"/>
+<color r="45" g="255" b="84" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="12" eline="12" spos="6" epos="16"/>
+<jmpPos sline="38" eline="38" spos="0" epos="0"/>
+<text info="baz: NonNull" aType="NullCheckTag"/>
+<text info="null: Null" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="38" eline="38" spos="11" epos="14"/>
+<color r="45" g="255" b="84" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="38" eline="38" spos="18" epos="22"/>
+<color r="255" g="0" b="0" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="13" eline="13" spos="4" epos="27"/>
+<jmpPos sline="44" eline="44" spos="0" epos="0"/>
+<text info="&amp;lt;java.lang.System: java.io.PrintStream out&amp;gt;: Nullness Unknown" aType="NullCheckTag"/>
+<text info="temp$3: Nullness Unknown" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="44" eline="44" spos="8" epos="14"/>
+<color r="174" g="210" b="255" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="13" eline="13" spos="11" epos="13"/>
+<jmpPos sline="44" eline="44" spos="17" epos="60"/>
+<color r="174" g="210" b="255" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="13" eline="13" spos="4" epos="27"/>
+<jmpPos sline="45" eline="45" spos="0" epos="0"/>
+<text info="temp$3: Nullness Unknown" aType="NullCheckTag"/>
+<text info="baz: NonNull" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="45" eline="45" spos="22" epos="28"/>
+<color r="174" g="210" b="255" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="45" eline="45" spos="83" epos="86"/>
+<color r="45" g="255" b="84" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="52" eline="52" spos="0" epos="0"/>
+<text info="[]" aType="ParamNamesTag"/>
+</attribute>
+<attribute>
+<srcPos sline="2" eline="2" spos="0" epos="0"/>
+<jmpPos sline="56" eline="56" spos="0" epos="0"/>
+<text info="@this: NullPointerClass: NonNull" aType="NullCheckTag"/>
+<text info="this: NonNull" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="56" eline="56" spos="8" epos="12"/>
+<color r="45" g="255" b="84" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="56" eline="56" spos="16" epos="39"/>
+<color r="45" g="255" b="84" fg="0" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="2" eline="2" spos="0" epos="0"/>
+<jmpPos sline="57" eline="57" spos="0" epos="0"/>
+<text info="this: NonNull" aType="NullCheckTag"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="57" eline="57" spos="22" epos="26"/>
+<color r="45" g="255" b="84" fg="0" aType="NullCheckTag"/>
+</attribute>
+<key red="255" green="0" blue="0" key="Nullness: Null" aType="NullCheckTag"/>
+<key red="45" green="255" blue="84" key="Nullness: Not Null" aType="NullCheckTag"/>
+<key red="174" green="210" blue="255" key="Nullness: Nullness Unknown" aType="NullCheckTag"/>
+</attributes>

@@ -1,0 +1,60 @@
+public class NullPointerClass extends java.lang.Object
+{
+
+    public static void main(java.lang.String[])
+    {
+        java.lang.String[] args;
+        java.lang.String foo, bar, temp$0, baz;
+        java.io.PrintStream temp$1, temp$2, temp$3;
+
+        args := @parameter0: java.lang.String[];
+        foo = null;
+        temp$0 = new java.lang.String;
+        specialinvoke temp$0.<java.lang.String: void <init>(java.lang.String)>("Hello");
+        bar = temp$0;
+        baz = "world";
+        if foo != null goto label0;
+
+        goto label1;
+
+     label0:
+        nop;
+        temp$1 = <java.lang.System: java.io.PrintStream out>;
+        virtualinvoke temp$1.<java.io.PrintStream: void println(java.lang.String)>(foo);
+
+     label1:
+        nop;
+        if bar != null goto label2;
+
+        goto label3;
+
+     label2:
+        nop;
+        temp$2 = <java.lang.System: java.io.PrintStream out>;
+        virtualinvoke temp$2.<java.io.PrintStream: void println(java.lang.String)>(bar);
+
+     label3:
+        nop;
+        if baz != null goto label4;
+
+        goto label5;
+
+     label4:
+        nop;
+        temp$3 = <java.lang.System: java.io.PrintStream out>;
+        virtualinvoke temp$3.<java.io.PrintStream: void println(java.lang.String)>(baz);
+
+     label5:
+        nop;
+        return;
+    }
+
+    public void <init>()
+    {
+        NullPointerClass this;
+
+        this := @this: NullPointerClass;
+        specialinvoke this.<java.lang.Object: void <init>()>();
+        return;
+    }
+}

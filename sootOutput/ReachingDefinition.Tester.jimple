@@ -1,0 +1,39 @@
+public class ReachingDefinition.Tester extends java.lang.Object
+{
+
+    public void <init>()
+    {
+        ReachingDefinition.Tester this;
+
+        this := @this: ReachingDefinition.Tester;
+        specialinvoke this.<java.lang.Object: void <init>()>();
+        return;
+    }
+
+    void function1(int)
+    {
+        ReachingDefinition.Tester this;
+        int a, x, t;
+        byte z, x, y, t;
+
+        this := @this: ReachingDefinition.Tester;
+        a := @parameter0: int;
+        z = 7;
+        if a <= 0 goto label0;
+
+        x = 1;
+        y = 2;
+        z = 3;
+        x = x + 1;
+        goto label1;
+
+     label0:
+        x = -1;
+        t = 5;
+        t = t * x;
+
+     label1:
+        t = 6;
+        return;
+    }
+}

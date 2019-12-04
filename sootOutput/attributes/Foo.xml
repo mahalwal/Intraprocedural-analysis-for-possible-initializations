@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<attributes>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="4" eline="4" spos="0" epos="0"/>
+<text info="[args]" aType="ParamNamesTag"/>
+</attribute>
+<attribute>
+<srcPos sline="8" eline="8" spos="11" epos="19"/>
+<jmpPos sline="12" eline="12" spos="0" epos="0"/>
+<link label="temp$0 has reaching def: temp$0 = new Foo" jmpLink="11" srcLink="8" clssNm="Foo" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="8" eline="8" spos="11" epos="19"/>
+<jmpPos sline="13" eline="13" spos="0" epos="0"/>
+<link label="temp$0 has reaching def: temp$0 = new Foo" jmpLink="11" srcLink="8" clssNm="Foo" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="11" eline="11" spos="3" epos="28"/>
+<jmpPos sline="16" eline="16" spos="0" epos="0"/>
+<link label="f has reaching def: f = temp$0" jmpLink="13" srcLink="8" clssNm="Foo" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="11" eline="11" spos="3" epos="28"/>
+<jmpPos sline="17" eline="17" spos="0" epos="0"/>
+<link label="temp$1 has reaching def: temp$1 = virtualinvoke f.&amp;lt;Foo: int bar(int)&amp;gt;(21)" jmpLink="16" srcLink="11" clssNm="Foo" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="11" eline="11" spos="3" epos="28"/>
+<jmpPos sline="18" eline="18" spos="0" epos="0"/>
+<link label="temp$2 has reaching def: temp$2 = temp$1" jmpLink="17" srcLink="11" clssNm="Foo" aType="Reaching Defs"/>
+<link label="a has reaching def: a = 7" jmpLink="14" srcLink="9" clssNm="Foo" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="11" eline="11" spos="3" epos="28"/>
+<jmpPos sline="19" eline="19" spos="0" epos="0"/>
+<link label="temp$3 has reaching def: temp$3 = temp$2 + a" jmpLink="18" srcLink="11" clssNm="Foo" aType="Reaching Defs"/>
+<link label="b has reaching def: b = 14" jmpLink="15" srcLink="10" clssNm="Foo" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="11" eline="11" spos="3" epos="28"/>
+<jmpPos sline="20" eline="20" spos="0" epos="0"/>
+<link label="temp$4 has reaching def: temp$4 = temp$3 * b" jmpLink="19" srcLink="11" clssNm="Foo" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="24" eline="24" spos="0" epos="0"/>
+<text info="[n]" aType="ParamNamesTag"/>
+</attribute>
+<attribute>
+<srcPos sline="13" eline="13" spos="18" epos="22"/>
+<jmpPos sline="31" eline="31" spos="0" epos="0"/>
+<link label="n has reaching def: n := @parameter0: int" jmpLink="30" srcLink="13" clssNm="Foo" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="13" eline="13" spos="18" epos="22"/>
+<jmpPos sline="32" eline="32" spos="0" epos="0"/>
+<link label="temp$0 has reaching def: temp$0 = n" jmpLink="31" srcLink="13" clssNm="Foo" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="15" eline="15" spos="3" epos="16"/>
+<jmpPos sline="33" eline="33" spos="0" epos="0"/>
+<link label="temp$1 has reaching def: temp$1 = temp$0 + 42" jmpLink="32" srcLink="13" clssNm="Foo" aType="Reaching Defs"/>
+</attribute>
+<attribute>
+<srcPos sline="0" eline="0" spos="0" epos="0"/>
+<jmpPos sline="36" eline="36" spos="0" epos="0"/>
+<text info="[]" aType="ParamNamesTag"/>
+</attribute>
+<attribute>
+<srcPos sline="2" eline="2" spos="0" epos="0"/>
+<jmpPos sline="41" eline="41" spos="0" epos="0"/>
+<link label="this has reaching def: this := @this: Foo" jmpLink="40" srcLink="2" clssNm="Foo" aType="Reaching Defs"/>
+</attribute>
+</attributes>
